@@ -1,16 +1,7 @@
-# flutter_project1_l2
+# Verse Navigator
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Verse Navigator is an innovative mobile application built using Flutter, designed to showcase verses and quotes. The app features a simple and intuitive interface that allows users to easily navigate through a curated collection of poetic verses and quotes. With just a tap, users can explore and reflect upon diverse lines of wisdom and expression. The app employs efficient state management to ensure smooth and responsive navigation, offering an enriching experience for poetry enthusiasts.
